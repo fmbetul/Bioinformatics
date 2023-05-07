@@ -19,7 +19,7 @@ Bioinformatics tools
 
 ```{r}
 # Load the function:
-source("https://raw.githubusercontent.com/fmbetul/Bioinformatics/main/FeaturePlot_Bot_v2.0.R")
+source("https://raw.githubusercontent.com/fmbetul/Bioinformatics/main/generate_feature_plots.R")
 
 # Set Inputs
 SeuFiles <- list(File1 = SeuratObject1, File2 = SeuratObject2)  # List of Seurat objects
